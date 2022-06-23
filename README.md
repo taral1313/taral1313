@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @taral1313
-- 👀 I’m interested in Deep Learnin
+- 👋 Hi, I’m Taral Sarvagod
+- 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Natural Language Processing
 - 📫 How to reach me taralsarvagod98@gmail.com
